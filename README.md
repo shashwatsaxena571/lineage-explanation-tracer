@@ -1,5 +1,7 @@
 # 🔍 Lineage-to-Explanation Tracer
 
+[![tests](https://github.com/shashwatsaxena571/lineage-explanation-tracer/actions/workflows/tests.yml/badge.svg)](https://github.com/shashwatsaxena571/lineage-explanation-tracer/actions/workflows/tests.yml)
+
 **"Why was this prediction wrong?" → "Feature X drove it, X comes from table Y, and Y failed its quality check yesterday."**
 
 XAI tells you *which feature* mattered. Data lineage tells you *where the feature came from*. This project joins the two — turning a model explanation into a **data-level root-cause report, in seconds**.
