@@ -72,7 +72,7 @@ python -m pytest tests/ -v
 
 I'm a **Data Engineer at IBM** and a **PhD scholar in Trustworthy & Explainable AI** — this project sits exactly at that intersection. My core thesis: *you can't explain a model if you can't trace your data. Explainability starts in the pipeline, not the model.*
 
-📰 I write about this weekly in [**Explainable Pipelines**](https://www.linkedin.com/newsletters/7488207829871304704/) · 💼 [LinkedIn](https://www.linkedin.com/in/saxena-shashwat/) · 🌐 [Portfolio](https://shashwatsaxena571.github.io/)
+📰 I write about this weekly in [**Explainable Pipelines**](https://www.linkedin.com/newsletters/7488207829871304704/) · 💼 [LinkedIn](https://www.linkedin.com/in/saxena-shashwat/) · 🐦 [X](https://x.com/I_m_Shash) · 🌐 [Portfolio](https://shashwatsaxena571.github.io/)
 
 ## License
 
